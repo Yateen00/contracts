@@ -132,6 +132,8 @@ contract ContractPlatform is ERC721URIStorage, ReentrancyGuard {
     //contractopenfor is from current time
     //nonReentrant: use for any payable function or one that tranfers money
     //charging cancellation fees to take it in case of cancellation and to prevent bogus contracts
+
+    //the stack too deep error is likely here. 
     function createContract(
         address creator,
         bool isCreatorFarmer,

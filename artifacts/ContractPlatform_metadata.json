@@ -2033,11 +2033,11 @@
 			]
 		},
 		"contract.sol": {
-			"keccak256": "0xf1830601c41fbb2fc58edf240e5614d3e8e366add9394f99c47b5b889c02f168",
+			"keccak256": "0x3cb24b42759b11780ddc94e7adf5c3f12d875d42d91a8b4832b7ffef9bcadb33",
 			"license": "UNLICENSED",
 			"urls": [
-				"bzz-raw://e022a812ee97d2143bb84c22013de9371ee73e926fa474f10b9d6f9f1eb9e1b7",
-				"dweb:/ipfs/QmVJgL1jCAWPYoo3tFZxi1CLi6oJW2hhJ4ER6oz1v58FVf"
+				"bzz-raw://51baf83d3db18a522f6b3c79110d87b567e7061bb9fe07bd9884aafff2d49f67",
+				"dweb:/ipfs/QmcZHYssbVGkGz9Jyjc9kN4dDq9QQgY7Pk9aCBifqjdFxv"
 			]
 		}
 	},
